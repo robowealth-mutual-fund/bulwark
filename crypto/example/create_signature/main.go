@@ -2,6 +2,8 @@ package main
 
 import (
 	"log"
+
+	"github.com/robowealth-mutual-fund/bulwark/crypto"
 )
 
 func main() {
