@@ -2,8 +2,6 @@ package main
 
 import (
 	"log"
-
-	"github.com/purnaresa/bulwark/crypto"
 )
 
 func main() {
