@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 
-	"github.com/purnaresa/bulwark/encryption"
-	"github.com/purnaresa/bulwark/utils"
+	"github.com/robowealth-mutual-fund/bulwark/encryption"
+	"github.com/robowealth-mutual-fund/bulwark/utils"
 )
 
 func main() {

@@ -4,7 +4,7 @@ import (
 	"io/ioutil"
 	"log"
 
-	"github.com/purnaresa/bulwark/rsa-encryption"
+	"github.com/robowealth-mutual-fund/bulwark/rsa-encryption"
 )
 
 func main() {

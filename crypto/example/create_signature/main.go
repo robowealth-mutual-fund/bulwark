@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/purnaresa/bulwark/crypto"
+	"github.com/robowealth-mutual-fund/bulwark/crypto"
 )
 
 func main() {
